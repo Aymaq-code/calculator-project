@@ -31,4 +31,4 @@ A modern, sleek calculator with neumorphic design built with React and math.js. 
    ```bash
    git clone https://github.com/yourusername/neumorphic-calculator.git
 
-   ## Live Demo ➡️ [Try it here](https://yourusername.github.io/neumorphic-calculator)
+   ## Live Demo ➡️ Try it here https://yourusername.github.io/neumorphic-calculator
