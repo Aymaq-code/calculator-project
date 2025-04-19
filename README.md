@@ -29,5 +29,5 @@ A modern, sleek calculator with neumorphic design built with React and math.js. 
 
   ## Live Demo
 
-[Live Demo] (https://aymaq-code.github.io/calculator-app/)
+[Live Demo] (https://aymaq-code.github.io/calculator-project/)
 
