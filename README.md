@@ -25,10 +25,7 @@ A modern, sleek calculator with neumorphic design built with React and math.js. 
 - CSS with neumorphic styling
 - Vite (or Create-React-App)
 
-## Installation
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/neumorphic-calculator.git
 
-   ## Live Demo ➡️ Try it here https://yourusername.github.io/neumorphic-calculator
+  ## Live Demo
+[![Live Demo](https://img.shields.io/badge/demo-live-green?style=for-the-badge&logo=github)](https://aymaq-code.github.io/calculator-app/)
